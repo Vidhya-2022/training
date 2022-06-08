@@ -1,22 +1,134 @@
-.box1{
-    background: red;
-    width:25px;
+.box{
     height:100px;
-    margin: 20px 20px;
+    background: red;
+    width:41%;
+    margin-top:10px;
+    margin-bottom: 5px;
+    margin-left:20px;
+    margin-right: 5px;
     display: inline-block;
+    text-align:centre;
 
 }
-.box2{
-    background: pink;
-    width:25px;
+.box2{ 
     height:100px;
-    margin:20px 20px;
-    display:inline-block;
+    background: blue;
+    width:41%;
+    margin-top:10px;
+    margin-bottom: 5px;
+    margin-left:5px;
+    margin-right: 5px;
+    display:inline-block ;
+    text-align:centre;
 }
-.box3{
-    background: pink;
+.box3
+{height:100px;
+    background: yellow;
+    width:98%;
+    margin-top:10px;
+    margin-bottom: 5px;
+    margin-left:5px;
+    margin-right: 5px;
+    display:inline-block ;
+    text-align:centre;
+}
+.box4
+{
     height:100px;
-    width:50px;
-    margin:20px 20px;
-    display:inline-block;
+    background: rgb(128, 128, 128);
+    width:32%;
+    margin-top:5px;
+    margin-bottom: 5px;
+    margin-left:20px;
+    margin-right: 5px;
+    display:inline-block ;
+    
+}  
+.box5
+{
+
+height:100px;
+    background: rgb(196, 196, 206);
+    width:41%;
+    margin-top:5px;
+    margin-bottom: 5px;
+    margin-left:5px;
+    margin-right: 5px;
+    display:inline-block ;
 }
+.box6
+{
+    height:100px;
+    background:pink;
+    width:32%;
+    margin-top:5px;
+    margin-bottom: 5px;
+    margin-left:5px;
+    margin-right:10px;
+    display:inline-block ;
+}  
+.box7
+{
+    height:100px;
+    background: blue;
+    width:48%;
+    margin-top:5px;
+    margin-bottom: 5px;
+    margin-left:5px;
+    margin-right: 20px;
+    display:inline-block ;   
+}
+.box81
+{
+    height:100px;
+    background: rgb(255, 0, 85);
+    width:24%;
+    margin-top:5px;
+    margin-bottom: 5px;
+    margin-left:20px;
+    margin-right: 5px;
+    display:inline-block ;
+} 
+.box82
+{height:100px;
+    background: blue;
+    width:24%;
+    margin-top:5px;
+    margin-bottom: 5px;
+    margin-left:5px;
+    margin-right: 5px;
+    display:inline-block ;
+}
+.box83
+{
+    height:100px;
+    background:olive;
+    width:24%;
+    margin-top:5px;
+    margin-bottom: 5px;
+    margin-left:5px;
+    margin-right: 5px;
+    display:inline-block ;
+} 
+.box84
+{height:100px;
+    background: blue;
+    width:23%;
+    margin-top:5px;
+    margin-bottom: 5px;
+    margin-left:5px;
+    margin-right: 5px;
+    display:inline-block ;
+    
+}
+.box85
+{
+    height:100px;
+    background:orangered;
+    width:100%;
+    margin-top:10px;
+    margin-bottom: 5px;
+    margin-left:5px;
+    margin-right: 5px;
+    display:inline-block ;
+} 
